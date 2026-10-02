@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mineral-anomaly-ml"
+version = "0.1.0"
+description = "Unsupervised anomaly detection and clustering for multivariate mineralogical data."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Alisher Saduov"}]
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "scikit-learn>=1.4",
+  "matplotlib>=3.8"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
