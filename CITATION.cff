@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the associated peer-reviewed article."
+title: "Mineral Anomaly Detection with Machine Learning"
+type: software
+authors:
+  - family-names: Saduov
+    given-names: Alisher
+    orcid: "https://orcid.org/0000-0003-1501-7772"
+repository-code: "https://github.com/Kazinage/mineral-anomaly-detection-ml"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Sharapatov
+      given-names: Abish
+    - family-names: Saduov
+      given-names: Alisher
+    - family-names: Assirbek
+      given-names: Nazerke
+    - family-names: Abdyrov
+      given-names: Madiyar
+    - family-names: Zhumabayev
+      given-names: Beibit
+  title: "Prediction of rare and anomalous minerals using anomaly detection and machine learning techniques"
+  journal: "Applied Computing and Geosciences"
+  year: 2025
+  volume: 26
+  doi: "10.1016/j.acags.2025.100250"
