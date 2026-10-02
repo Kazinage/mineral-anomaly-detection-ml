@@ -1,5 +1,6 @@
 # Mineral Anomaly Detection with Machine Learning
 
+[![CI](https://github.com/Kazinage/mineral-anomaly-detection-ml/actions/workflows/ci.yml/badge.svg)](https://github.com/Kazinage/mineral-anomaly-detection-ml/actions/workflows/ci.yml)
 **Unsupervised detection and clustering of rare/anomalous minerals from multivariate mineralogical properties.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
